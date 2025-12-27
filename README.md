@@ -61,9 +61,11 @@
 </p>
 ---
 
-### 🐍 Activity Stream
+## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/shaurya-gupta2115/shaurya-gupta2115/blob/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/<shauryagupta2125>/<shauryagupta2125>/output/github-contribution-grid-snake.svg)
+
+![Snake animation dark](https://raw.githubusercontent.com/<shauryagupta2125>/<shauryagupta2125>/output/github-contribution-grid-snake-dark.svg)
 ---
 
 ### 🤝 Let's Connect!
